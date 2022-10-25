@@ -1,0 +1,16 @@
+﻿  LABA_4.cpp
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(117,160): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(117,116): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(117,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(117,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(134,157): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(134,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(134,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(134,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(135,157): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(135,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(135,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(135,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(450,6): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\User\source\repos\LABA_4\LABA_4\LABA_4.cpp(407,7): warning C4101: bMessageOk: неиспользованная локальная переменная
+  LABA_4.vcxproj -> C:\Users\User\source\repos\LABA_4\Debug\LABA_4.exe
